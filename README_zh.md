@@ -15,7 +15,9 @@
 
 ### 演示视频 🎥
 
-<video src="gyroscope_demo.mp4" width="100%" controls></video>
+<video src="https://github.com/Bowen1314/Magic-Glove/raw/main/gyroscope_demo.mp4" width="100%" controls>
+  您的浏览器不支持 HTML5 视频，请 <a href="gyroscope_demo.mp4">点击此处查看视频文件</a>。
+</video>
 
 ## 针脚接线图 🔌
 | ESP32-S3 针脚 | 连接模块 / 具体功能 |
