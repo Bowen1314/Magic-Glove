@@ -22,7 +22,7 @@ Magic Glove is a wearable Bluetooth Low Energy (BLE) Human Interface Device (HID
 ### Demo Video 🎥
 
 <p align="center">
-  https://github.com/user-attachments/assets/bb622252-6d60-47ac-98bc-c4d051b38a6e
+  <video src="https://github.com/user-attachments/assets/bb622252-6d60-47ac-98bc-c4d051b38a6e" width="480" controls></video>
 </p>
 
 ## Pin Mapping 🔌

@@ -22,7 +22,7 @@
 ### 演示视频 🎥
 
 <p align="center">
-  https://github.com/user-attachments/assets/bb622252-6d60-47ac-98bc-c4d051b38a6e
+  <video src="https://github.com/user-attachments/assets/bb622252-6d60-47ac-98bc-c4d051b38a6e" width="480" controls></video>
 </p>
 
 ## 针脚接线图 🔌
