@@ -6,6 +6,12 @@ Magic Glove is a wearable Bluetooth Low Energy (BLE) Human Interface Device (HID
 
 <img src="full_assembly.png" width="500" alt="Full Assembly">
 
+## Hardware Required 🛠️
+* **Microcontroller**: Seeed Studio XIAO ESP32-S3 (Sense version also supported).
+* **Sensor**: MPU-6050 (GY-521) 6-axis Gyroscope & Accelerometer.
+* **Feedback**: MH-FMD Low-level trigger Buzzer.
+* **Others**: Tactile buttons, connecting wires, and a glove for mounting.
+
 ## Features ✨
 * **Hybrid-Acceleration Air Mouse**: Uses an advanced dual-dynamic engine (Linear + Quadratic mapping) driven by Gyroscope angular velocity. This ensures pixel-perfect precision when moving slowly, and screen-crossing snap capability when turning rapidly.
 * **Dual Profiles (Mode Switching)**: Long press to switch between Air Mouse (Mode A) and Full Keyboard (Mode B).
