@@ -15,7 +15,7 @@
 
 ### 演示视频 🎥
 
-![演示视频](gyroscope_demo.mp4)
+https://github.com/user-attachments/assets/bb622252-6d60-47ac-98bc-c4d051b38a6e
 
 ## 针脚接线图 🔌
 | ESP32-S3 针脚 | 连接模块 / 具体功能 |
