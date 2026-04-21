@@ -4,7 +4,7 @@
 
 Magic Glove is a wearable Bluetooth Low Energy (BLE) Human Interface Device (HID) built on the Seeed Studio XIAO ESP32-S3. It transforms your hand into a 3D air mouse and a wireless keyboard utilizing an MPU-6050 (GY-521) Gyroscope.
 
-<img src="full_assembly.png" alt="Full Assembly" width="500">
+<img src="full_assembly.png" width="500" alt="Full Assembly">
 
 ## Features ✨
 * **Hybrid-Acceleration Air Mouse**: Uses an advanced dual-dynamic engine (Linear + Quadratic mapping) driven by Gyroscope angular velocity. This ensures pixel-perfect precision when moving slowly, and screen-crossing snap capability when turning rapidly.
@@ -15,7 +15,7 @@ Magic Glove is a wearable Bluetooth Low Energy (BLE) Human Interface Device (HID
 
 ### Demo Video 🎥
 
-<video src="gyroscope_demo.mp4" width="320" height="240" controls></video>
+![Demo Video](gyroscope_demo.mp4)
 
 ## Pin Mapping 🔌
 | Pin | Component / Function |
