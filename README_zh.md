@@ -4,7 +4,7 @@
 
 “魔法手套”是一款基于 Seeed Studio XIAO ESP32-S3 打造的可穿戴蓝牙 HID 设备。它结合了 MPU-6050 (GY-521) 陀螺仪，将你的手部姿态转变为全向空中鼠标与无线键盘。
 
-![成品展示](full_assembly.png)
+<img src="full_assembly.png" alt="成品展示" width="500">
 
 ## 核心特性 ✨
 * **混合加速空鼠引擎**：摒弃传统的加速度计平移，采用陀螺仪角速度驱动。内置独家“线性+抛物线”双擎混合映射算法——慢速微操精准无比，快速甩腕瞬间响应跨屏。
@@ -15,7 +15,7 @@
 
 ### 演示视频 🎥
 
-![演示视频](gyroscope_demo.mp4)
+<video src="gyroscope_demo.mp4" width="100%" controls></video>
 
 ## 针脚接线图 🔌
 | ESP32-S3 针脚 | 连接模块 / 具体功能 |
